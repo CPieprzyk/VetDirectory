@@ -1,5 +1,11 @@
 #Veterinary Resource Directory
 
+##Welcome to the Veterinary Resource Directory
+
+###This website is intended for use by veterinary students to easily locate relevent study materials. It is student run by a veterinary student at Michigan State University.
+
+If you have any comments on website summaries, ratings, or would like to suggest an additional resource, please contact the [current webmaster](mailto:CPieprzyk@gmail.com).
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CPieprzyk/VetDirectory/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
