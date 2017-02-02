@@ -9,16 +9,16 @@ If you have any comments on website summaries, ratings, or would like to suggest
 - Ease of Navigation
 - Overall Rating
 
-## Search resources by:
+### Search resources by:
 - Species
 - Subject
 
-## Resource By Species
+### Resource By Species
 - Small Animal Only
 - Large Animal Only
 - Mixed Animal
 
-## Resource By Subject
+### Resource By Subject
 
 ## Welcome to GitHub Pages
 
