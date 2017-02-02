@@ -1,8 +1,6 @@
-# Veterinary Resource Directory
+# **Welcome to the Veterinary Resource Directory**
 
-## Welcome to the Veterinary Resource Directory
-
-### This website is intended for use by veterinary students to easily locate relevent study materials. It is student run by a veterinary student at Michigan State University.
+## This website is intended for use by veterinary students to easily locate relevent study materials. It is student run by a veterinary student at Michigan State University.
 
 If you have any comments on website summaries, ratings, or would like to suggest an additional resource, please contact the [current webmaster](mailto:CPieprzyk@gmail.com).
 
@@ -11,7 +9,7 @@ If you have any comments on website summaries, ratings, or would like to suggest
 - Ease of Navigation
 - Overall Rating
 
-### Search resources by:
+## Search resources by:
 - Species
 - Subject
 
