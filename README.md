@@ -37,13 +37,15 @@ Very simple visual tools oriented toward the pet owner, including explanations o
 - Ease of Navigation: 5/5
 - Overall Rating: 2/5
 
-Virtual Canine Anatomy
-	•	http://www.cvmbs.colostate.edu/vetneuro/VCA3/vca.html
-	•	Amazing visual dissection of the dog highlighting areas of interest. Mostly easy to use, with some minor glitches for Mac users. 
-	•	Quality of Content: 3/5
-	•	Ease of Navigation: 3/5
-	•	Overall Rating: 3/5
-	•	Real 3D Anatomy
+[**Virtual Canine Anatomy**](http://www.cvmbs.colostate.edu/vetneuro/VCA3/vca.html)
+
+Amazing visual dissection of the dog highlighting areas of interest. Mostly easy to use, with some minor glitches for Mac users. 
+
+- Quality of Content: 3/5
+- Ease of Navigation: 3/5
+- Overall Rating: 3/5
+
+Real 3D Anatomy
 	•	http://www.real3danatomy.com/index.html
 	•	Great resource for visualizing canine skeletal anatomy, but not much else. Very user friendly. No information about attachment or insertion points.
 	•	Quality of Content: 3/5
