@@ -9,14 +9,18 @@ If you have any comments on website summaries, ratings, or would like to suggest
 - Ease of Navigation
 - Overall Rating
 
-### Resources are sorted by rating
+### Resources are sorted by rating.
 
 ## Veterinary Web Resources
 
 [**Merck Veterinary Manual**](http://www.merckvetmanual.com/)
+
 Quick reference for veterinary diseases and commonly encountered topics/situations. Fairly thorough, but written in lay terms as opposed to technical terminology.
+
 ### Quality of Content: 5/5
+
 ### Ease of Navigation: 5/5
+
 ### Overall Rating: 5/5
 
 [**Veterinary Information Network (VIN)**](www.vin.com)
