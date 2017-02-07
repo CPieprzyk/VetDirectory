@@ -17,11 +17,9 @@ If you have any comments on website summaries, ratings, or would like to suggest
 
 Quick reference for veterinary diseases and commonly encountered topics/situations. Fairly thorough, but written in lay terms as opposed to technical terminology.
 
-### Quality of Content: 5/5
-
-### Ease of Navigation: 5/5
-
-### Overall Rating: 5/5
+- ### Quality of Content: 5/5
+- ### Ease of Navigation: 5/5
+- ### Overall Rating: 5/5
 
 [**Veterinary Information Network (VIN)**](www.vin.com)
 This website is run by veterinarians only, for veterinarians only. Membership costs money, but students get access for free. This is a great place for information that is not biased by companies who profit from veterinary medicine. Message boards are helpful, but be sure to check out the library (free drug textbooks!) and student resource pages.
