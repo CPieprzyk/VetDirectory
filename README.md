@@ -4,12 +4,10 @@
 
 If you have any comments on website summaries, ratings, or would like to suggest an additional resource, please contact the [current webmaster](mailto:CPieprzyk@gmail.com).
 
-### The following resources are rated on a 5 point scale in each of the following categories: 
+### The following resources are sorted by rating based on a 5 point scale in each of the following categories: 
 - Quality of Content
 - Ease of Navigation
 - Overall Rating
-
-### Resources are sorted by rating.
 
 ## Veterinary Web Resources
 
