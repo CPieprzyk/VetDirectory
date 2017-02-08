@@ -11,6 +11,14 @@ If you have any comments on website summaries, ratings, or would like to suggest
 
 ## Veterinary Web Resources
 
+[**Comparative Mammalian Brain Collections**](http://brainmuseum.org/)
+
+This website features over 100 different species brains! Images and descriptions are available with varying detail for various species. There is also information on brain circuitry/function/etc.
+
+- Quality of Content: 4/5
+- Ease of Navigation: 5/5
+- Overall Rating: 5/5
+
 [**Comparitive Placentation**](http://placentation.ucsd.edu/homefs.html)
 
 A comprehensive source for anything you ever wanted to know about theriogenology of most species. Seriously, the index lists a Sichuan Takin,  Lesser Panda, and Nine-banded Armadillo (just an example of the multitude of species represented). Information is organized and easy to find, with relevant images and resources on each page.
@@ -107,7 +115,8 @@ Very simple visual tools oriented toward the pet owner, including explanations o
 - Ease of Navigation: 5/5
 - Overall Rating: 2/5
 
-http://brainmuseum.org/
+
+
 http://www.neurovideos.vet.cornell.edu/index.aspx
 http://www.hybridmedicalanimation.com/work/interactive/hybrid-interactive-heart/
 http://vetmed.illinois.edu/courses/imaging_anatomy/
