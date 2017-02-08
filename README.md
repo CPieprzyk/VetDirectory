@@ -106,3 +106,17 @@ Very simple visual tools oriented toward the pet owner, including explanations o
 - Quality of Content: 1/5
 - Ease of Navigation: 5/5
 - Overall Rating: 2/5
+
+http://brainmuseum.org/
+http://www.neurovideos.vet.cornell.edu/index.aspx
+http://www.hybridmedicalanimation.com/work/interactive/hybrid-interactive-heart/
+http://vetmed.illinois.edu/courses/imaging_anatomy/
+http://www.vet.cornell.edu/oed/horsedissection/
+http://plato.wilmington.edu/faculty/dtroike/mouse_anatomy.htm
+https://www.neuroanatomyofthedog.com/
+http://www.noviceproject.eu/ another site free to vet students and vets, not sure if it's still active.
+https://en.wikivet.net/OVAM  free to vet students, faculty, vets etc
+http://www.um.es/anatvet/interactividad/ingles/pigs/index.htm
+http://www.vetmed.wsu.edu/outreach/Pet-Health-Topics/categories/cat-and-dog-anatomy/digestive-system-of-the-dog
+http://vanat.cvm.umn.edu/headShow/
+https://sketchfab.com/Kvoirol34  also search for Scherger and Malinowski
