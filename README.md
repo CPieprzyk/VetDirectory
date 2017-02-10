@@ -91,6 +91,14 @@ This website is run by veterinarians only, for veterinarians only. Membership co
 - Ease of Navigation: 3/5
 - Overall Rating: 4/5
 
+[**Video Resources for Veterinary Neuroanatomy and Clinical Neurology, *fourth edition***](http://www.neurovideos.vet.cornell.edu/index.aspx)
+
+A vast resource filled with numberous videos detailing various neurologic states in the main domestic species. The videos are sorted by chapter of the above referenced testbook, but are named only by their species, making it difficult to find a particular topic without looking up the chapter list for the book itself (open it [here](https://elsevier.ca/toc.jsp?isbn=9781455748563) for your reference).
+
+- Quality of Content: 5/5
+- Ease of Navigation: 3/5
+- Overall Rating: 4/5
+
 [**Virtual Canine Anatomy**](http://www.cvmbs.colostate.edu/vetneuro/VCA3/vca.html)
 
 Amazing visual dissection of the dog highlighting areas of interest. Mostly easy to use, with some minor glitches for Mac users. 
@@ -115,12 +123,15 @@ Very simple visual tools oriented toward the pet owner, including explanations o
 - Ease of Navigation: 5/5
 - Overall Rating: 2/5
 
+[**Horse Dissection**](http://www.vet.cornell.edu/oed/horsedissection/)
 
 
-http://www.neurovideos.vet.cornell.edu/index.aspx
-http://www.hybridmedicalanimation.com/work/interactive/hybrid-interactive-heart/
-http://vetmed.illinois.edu/courses/imaging_anatomy/
-http://www.vet.cornell.edu/oed/horsedissection/
+
+[**Hybrid Interactive Heart**](http://www.hybridmedicalanimation.com/work/interactive/hybrid-interactive-heart/)
+
+
+
+
 http://plato.wilmington.edu/faculty/dtroike/mouse_anatomy.htm
 https://www.neuroanatomyofthedog.com/
 http://www.noviceproject.eu/ another site free to vet students and vets, not sure if it's still active.
