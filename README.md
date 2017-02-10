@@ -164,7 +164,7 @@ swfobject.embedSWF("/wp-content/themes/hybrid-medical-animation/flash/HybridInte
 - Ease of Navigation: 1/5
 - Overall Rating: 1/5
 
-[**Network of Veterinarians in Continuing Education**](http://www.noviceproject.eu/)
+[**Network of Veterinarians in Continuing Education (NOVICE)**](http://www.noviceproject.eu/)
 
 Free to vet students and vets, I am still waiting for my membership to be confirmed, site details to follow.
 
@@ -172,9 +172,6 @@ Free to vet students and vets, I am still waiting for my membership to be confir
 - Ease of Navigation: N/A
 - Overall Rating: N/A
 
-
-
-https://en.wikivet.net/OVAM  free to vet students, faculty, vets etc
 
 http://www.vetmed.wsu.edu/outreach/Pet-Health-Topics/categories/cat-and-dog-anatomy/digestive-system-of-the-dog
 http://vanat.cvm.umn.edu/headShow/
