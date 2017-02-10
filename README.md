@@ -44,6 +44,14 @@ This website is absolutely amazing for identifying anatomic structures on radiog
 - Ease of Navigation: 5/5
 - Overall Rating: 5/5
 
+[**Interactive Pig Anatomy**](http://www.um.es/anatvet/interactividad/ingles/pigs/index.htm)
+
+This is another visual anatomy disseciton, this time of the pig. Very thorough, although somewhat less technically pretty than some of the other similar websites. Easy to navigate. PDF information is in spanish.
+
+- Quality of Content: 5/5
+- Ease of Navigation: 5/5
+- Overall Rating: 5/5
+
 [**IVIS**](http://www.ivis.org/home.asp)
 
 Free membership for veterinarians and veterinary students. This site gives access to a large library for multiple species. There are interesting topics reviewed weekly, and you can stay up to date on where conferences are happening around the world.
@@ -55,6 +63,14 @@ Free membership for veterinarians and veterinary students. This site gives acces
 [**Merck Veterinary Manual**](http://www.merckvetmanual.com/)
 
 Quick reference for veterinary diseases and commonly encountered topics/situations. Fairly thorough, but written in lay terms as opposed to technical terminology.
+
+- Quality of Content: 5/5
+- Ease of Navigation: 5/5
+- Overall Rating: 5/5
+
+[**Neuroanatomy of the Dog**](https://www.neuroanatomyofthedog.com/)
+
+This website contains everything you could want to know about canine neurology, from theory to images to videos, and even information on how MRI works. It is laid out quite simply, as well.
 
 - Quality of Content: 5/5
 - Ease of Navigation: 5/5
@@ -138,7 +154,9 @@ Very simple visual tools oriented toward the pet owner, including explanations o
 This is a beautiful representation of a heart that is "glass" so that you can see the contractions and movement of the valves as the heart beats. The drawbacks: not actually interactive, and difficult to get the site to run. If it is not working for you, open the link in Google Chrome and open up your console (mac users: command+option+J windows/linux users: ctrl+shift+J). Then, copy the following code and past it into the console and hit "enter". The heart should appear, and you can close out the console and use the website as intended.
 
 ```javascript
-var s=document.createElement('script'); s.src='https://cdnjs.cloudflare.com/ajax/libs/swfobject/2.2/swfobject.js'; document.head.appendChild(s);
+var s=document.createElement('script'); 
+s.src='https://cdnjs.cloudflare.com/ajax/libs/swfobject/2.2/swfobject.js'; 
+document.head.appendChild(s);
 swfobject.embedSWF("/wp-content/themes/hybrid-medical-animation/flash/HybridInteractiveHeart.swf", "flash", "640", "456", "9.0.115", "", { }, { wmode: "transparent" });
 ```
 
@@ -146,12 +164,18 @@ swfobject.embedSWF("/wp-content/themes/hybrid-medical-animation/flash/HybridInte
 - Ease of Navigation: 1/5
 - Overall Rating: 1/5
 
-[**Neuroanatomy of the Dog**](https://www.neuroanatomyofthedog.com/)
+[**Network of Veterinarians in Continuing Education**](http://www.noviceproject.eu/)
+
+Free to vet students and vets, I am still waiting for my membership to be confirmed, site details to follow.
+
+- Quality of Content: N/A
+- Ease of Navigation: N/A
+- Overall Rating: N/A
 
 
-http://www.noviceproject.eu/ another site free to vet students and vets, not sure if it's still active.
+
 https://en.wikivet.net/OVAM  free to vet students, faculty, vets etc
-http://www.um.es/anatvet/interactividad/ingles/pigs/index.htm
+
 http://www.vetmed.wsu.edu/outreach/Pet-Health-Topics/categories/cat-and-dog-anatomy/digestive-system-of-the-dog
 http://vanat.cvm.umn.edu/headShow/
 https://sketchfab.com/Kvoirol34  also search for Scherger and Malinowski
