@@ -137,7 +137,7 @@ Very simple visual tools oriented toward the pet owner, including explanations o
 
 This is a beautiful representation of a heart that is "glass" so that you can see the contractions and movement of the valves as the heart beats. The drawbacks: not actually interactive, and difficult to get the site to run. If it is not working for you, open the link in Google Chrome and open up your console (mac users: command+option+J windows/linux users: ctrl+shift+J). Then, copy the following code and past it into the console and hit "enter". The heart should appear, and you can close out the console and use the website as intended.
 
-```
+```javascript
 var s=document.createElement('script'); s.src='https://cdnjs.cloudflare.com/ajax/libs/swfobject/2.2/swfobject.js'; document.head.appendChild(s);
 swfobject.embedSWF("/wp-content/themes/hybrid-medical-animation/flash/HybridInteractiveHeart.swf", "flash", "640", "456", "9.0.115", "", { }, { wmode: "transparent" });
 ```
@@ -146,8 +146,9 @@ swfobject.embedSWF("/wp-content/themes/hybrid-medical-animation/flash/HybridInte
 - Ease of Navigation: 1/5
 - Overall Rating: 1/5
 
+[**Neuroanatomy of the Dog**](https://www.neuroanatomyofthedog.com/)
 
-https://www.neuroanatomyofthedog.com/
+
 http://www.noviceproject.eu/ another site free to vet students and vets, not sure if it's still active.
 https://en.wikivet.net/OVAM  free to vet students, faculty, vets etc
 http://www.um.es/anatvet/interactividad/ingles/pigs/index.htm
