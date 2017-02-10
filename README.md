@@ -27,6 +27,15 @@ A comprehensive source for anything you ever wanted to know about theriogenology
 - Ease of Navigation: 5/5
 - Overall Rating: 5/5
 
+
+[**Horse Dissection**](http://www.vet.cornell.edu/oed/horsedissection/)
+
+This site is great for studying horse anatomy, because it has many labelled images of the entire dissection of the horse, with complementary unlabelled images that are useful to quiz yourself. The images are sorted by region of the body.
+
+- Quality of Content: 5/5
+- Ease of Navigation: 5/5
+- Overall Rating: 5/5
+
 [**Imaging Anatomy**](http://vetmed.illinois.edu/courses/imaging_anatomy/index.html)
 
 This website is absolutely amazing for identifying anatomic structures on radiographs. It is very easy to use, visual, and offers the big 4 species plus canine and feline dental radiographs.
@@ -123,16 +132,21 @@ Very simple visual tools oriented toward the pet owner, including explanations o
 - Ease of Navigation: 5/5
 - Overall Rating: 2/5
 
-[**Horse Dissection**](http://www.vet.cornell.edu/oed/horsedissection/)
-
-
 
 [**Hybrid Interactive Heart**](http://www.hybridmedicalanimation.com/work/interactive/hybrid-interactive-heart/)
 
+This is a beautiful representation of a heart that is "glass" so that you can see the contractions and movement of the valves as the heart beats. The drawbacks: not actually interactive, and difficult to get the site to run. If it is not working for you, open the link in Google Chrome and open up your console (mac users: command+option+J windows/linux users: ctrl+shift+J). Then, copy the following code and past it into the console and hit "enter". The heart should appear, and you can close out the console and use the website as intended.
+
+```
+var s=document.createElement('script'); s.src='https://cdnjs.cloudflare.com/ajax/libs/swfobject/2.2/swfobject.js'; document.head.appendChild(s);
+swfobject.embedSWF("/wp-content/themes/hybrid-medical-animation/flash/HybridInteractiveHeart.swf", "flash", "640", "456", "9.0.115", "", { }, { wmode: "transparent" });
+```
+
+- Quality of Content: 2/5
+- Ease of Navigation: 1/5
+- Overall Rating: 1/5
 
 
-
-http://plato.wilmington.edu/faculty/dtroike/mouse_anatomy.htm
 https://www.neuroanatomyofthedog.com/
 http://www.noviceproject.eu/ another site free to vet students and vets, not sure if it's still active.
 https://en.wikivet.net/OVAM  free to vet students, faculty, vets etc
