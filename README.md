@@ -167,7 +167,7 @@ Very simple visual tools oriented toward the pet owner, including explanations o
 
 [**Hybrid Interactive Heart**](http://www.hybridmedicalanimation.com/work/interactive/hybrid-interactive-heart/)
 
-This is a beautiful representation of a heart that is "glass" so that you can see the contractions and movement of the valves as the heart beats. The drawbacks: not actually interactive, and difficult to get the site to run. If it is not working for you, open the link in Google Chrome and open up your console (mac users: command+option+J windows/linux users: ctrl+shift+J). Then, copy the following code and past it into the console and hit "enter". The heart should appear, and you can close out the console and use the website as intended.
+This is a beautiful representation of a heart that is "glass" so that you can see the contractions and movement of the valves as the heart beats. The drawbacks: not actually interactive, and difficult to get the site to run. If it is not working for you, open the link in Google Chrome and open up your console (mac users: command+option+J windows/linux users: ctrl+shift+J). Then, copy the following code and paste it into the console and hit "enter". The heart should appear, and you can close out the console and use the website as intended.
 
 ```javascript
 var s=document.createElement('script'); 
