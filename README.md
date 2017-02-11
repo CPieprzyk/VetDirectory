@@ -84,6 +84,22 @@ This segment of the site has 5 nice brief videos illustrating different componen
 - Ease of Navigation: 5/5
 - Overall Rating: 5/5
 
+[**Sketchfab by K. Voirol**](https://sketchfab.com/Kvoirol34)
+
+This page features an assortment of 3D renderings of canine anatomy, featuring ligaments as well as bony structures and integument. 
+
+- Quality of Content: 5/5
+- Ease of Navigation: 5/5
+- Overall Rating: 5/5
+
+[**Cat and Dog Anatomy**](http://www.vetmed.wsu.edu/outreach/Pet-Health-Topics/categories/cat-and-dog-anatomy)
+
+This is an outreach site hosted by Washington State University's College of Veterinary Medicine. As such, the topics are fairly simplified, but there are some nice images to look at.
+
+- Quality of Content: 3/5
+- Ease of Navigation: 4/5
+- Overall Rating: 4/5
+
 [**E-Clin Path**](www.eclinpath.com)
 
 An excellent and comprehensive resource for understanding and interpreting clinical pathology, if you can find what you are looking for. The site can be overwhelming with information, and it is not always obvious where to look for particular items.
@@ -171,8 +187,3 @@ Free to vet students and vets, I am still waiting for my membership to be confir
 - Quality of Content: N/A
 - Ease of Navigation: N/A
 - Overall Rating: N/A
-
-
-http://www.vetmed.wsu.edu/outreach/Pet-Health-Topics/categories/cat-and-dog-anatomy/digestive-system-of-the-dog
-http://vanat.cvm.umn.edu/headShow/
-https://sketchfab.com/Kvoirol34  also search for Scherger and Malinowski
