@@ -36,6 +36,14 @@ This site is great for studying horse anatomy, because it has many labelled imag
 - Ease of Navigation: 5/5
 - Overall Rating: 5/5
 
+[**Humane Alliance E-Learning Materials**](http://humanealliance.org/e-learning)
+
+This is a great resource for surgical information, as well as how to run a high volume spay/neuter operation generally. The real meat and potatoes for this site is under the "sx" tab, where you can find videos regarding every aspect of a spay and neuter.
+
+- Quality of Content: 5/5
+- Ease of Navigation: 5/5
+- Overall Rating: 5/5
+
 [**Imaging Anatomy**](http://vetmed.illinois.edu/courses/imaging_anatomy/index.html)
 
 This website is absolutely amazing for identifying anatomic structures on radiographs. It is very easy to use, visual, and offers the big 4 species plus canine and feline dental radiographs.
