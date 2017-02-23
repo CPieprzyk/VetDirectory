@@ -164,6 +164,14 @@ The information itself is extremely basic, but this page has a boatload of links
 - Ease of Navigation: 1/5
 - Overall Rating: 2/5
 
+[**Network of Veterinarians in Continuing Education (NOVICE)**](http://www.noviceproject.eu/)
+
+Free to vet students and vets, sort of like a social media site for veterinarians. There are blog posts, forums, bookmarks, etc. Somewhat difficult to get the hang of, and the users don't seem very active, but it could be a good alternative source of information since it is a european site.
+
+- Quality of Content: 3/5
+- Ease of Navigation: 2/5
+- Overall Rating: 2/5
+
 [**Veritas Free Downloadable Content**](https://www.veritasdvm.com/web/veritas/downloads)
 
 Very simple visual tools oriented toward the pet owner, including explanations of endocrinopathies and dental topography. 
@@ -187,11 +195,3 @@ swfobject.embedSWF("/wp-content/themes/hybrid-medical-animation/flash/HybridInte
 - Quality of Content: 2/5
 - Ease of Navigation: 1/5
 - Overall Rating: 1/5
-
-[**Network of Veterinarians in Continuing Education (NOVICE)**](http://www.noviceproject.eu/)
-
-Free to vet students and vets, I am still waiting for my membership to be confirmed, site details to follow.
-
-- Quality of Content: N/A
-- Ease of Navigation: N/A
-- Overall Rating: N/A
